@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="DevOps Git Practice Project Banner" width="100%">
+</p>
+
 # 📁 DevOps Git Practice Project
 
 ### 🧰 Description
@@ -35,9 +39,9 @@ main                 ← Production-ready code
 
 ### 📂 Files in This Repo
 
-* `login.txt` – Placeholder file for login feature
-* `signup.txt` – Placeholder file for signup feature
-* `README.md` – This project description and learning documentation
+- `login.txt` – Placeholder file for login feature
+- `signup.txt` – Placeholder file for signup feature
+- `README.md` – This project description and learning documentation
 
 ---
 
@@ -59,11 +63,11 @@ git push -u origin <branch>
 
 ### 💡 What I Learned
 
-* How to manage Git branches for different features
-* The importance of isolating features using `feature-*` branches
-* How merging works between branches (`feature → dev → main`)
-* Using GitHub to push, view, and manage branches
-* Solving common Git errors (e.g., push rejection, host resolution)
+- How to manage Git branches for different features
+- The importance of isolating features using `feature-*` branches
+- How merging works between branches (`feature → dev → main`)
+- Using GitHub to push, view, and manage branches
+- Solving common Git errors (e.g., push rejection, host resolution)
 
 ---
 
@@ -84,10 +88,10 @@ git push -u origin <branch>
 
 In the future, I may:
 
-* Add real code instead of placeholder `.txt` files
-* Use Pull Requests (PRs) for code reviews
-* Integrate CI/CD pipelines (GitHub Actions or Jenkins)
-* Learn about Gitflow or trunk-based development models
+- Add real code instead of placeholder `.txt` files
+- Use Pull Requests (PRs) for code reviews
+- Integrate CI/CD pipelines (GitHub Actions or Jenkins)
+- Learn about Gitflow or trunk-based development models
 
 ---
 
@@ -95,8 +99,7 @@ In the future, I may:
 
 I'm a beginner in DevOps and Cloud technologies, exploring version control, automation, and modern software development practices.
 
-This project is a reflection of my learning journey — feel free to fork, follow, or contribute as I continue to grow and build more projects.
----
+## This project is a reflection of my learning journey — feel free to fork, follow, or contribute as I continue to grow and build more projects.
 
 ## 🔗 Repo Link
 
